@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-08-05T15:08:02.746462800Z</date>
+  <millis>1596640082746</millis>
+  <nanos>462800</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>org.example.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>aplication has  started</message>
+</record>
+<record>
+  <date>2020-08-05T15:08:02.823569Z</date>
+  <millis>1596640082823</millis>
+  <nanos>569000</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>org.example.Config</class>
+  <method>getPropValues</method>
+  <thread>1</thread>
+  <message>Started loading resources from config resources file</message>
+</record>
+<record>
+  <date>2020-08-05T15:08:02.829081Z</date>
+  <millis>1596640082829</millis>
+  <nanos>81000</nanos>
+  <sequence>2</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>org.example.Config</class>
+  <method>getPropValues</method>
+  <thread>1</thread>
+  <message>loading resources from config resources file has finished</message>
+</record>
+<record>
+  <date>2020-08-05T15:08:02.831160800Z</date>
+  <millis>1596640082831</millis>
+  <nanos>160800</nanos>
+  <sequence>3</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>org.example.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>reading and analyzing content of config file </message>
+</record>
+<record>
+  <date>2020-08-05T15:08:02.833070600Z</date>
+  <millis>1596640082833</millis>
+  <nanos>70600</nanos>
+  <sequence>4</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>org.example.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>apple.txt exists</message>
+</record>
+<record>
+  <date>2020-08-05T15:08:02.835065200Z</date>
+  <millis>1596640082835</millis>
+  <nanos>65200</nanos>
+  <sequence>5</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>org.example.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>new name appleepam.txt was generated from apple.txt because of the suffix - epam</message>
+</record>
+<record>
+  <date>2020-08-05T15:08:02.838388400Z</date>
+  <millis>1596640082838</millis>
+  <nanos>388400</nanos>
+  <sequence>6</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>org.example.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>apple.txt renamed to appleepam.txt</message>
+</record>
+<record>
+  <date>2020-08-05T15:08:02.839914200Z</date>
+  <millis>1596640082839</millis>
+  <nanos>914200</nanos>
+  <sequence>7</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>org.example.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>yahoo.txt exists</message>
+</record>
+<record>
+  <date>2020-08-05T15:08:02.841038400Z</date>
+  <millis>1596640082841</millis>
+  <nanos>38400</nanos>
+  <sequence>8</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>org.example.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>new name yahooepam.txt was generated from yahoo.txt because of the suffix - epam</message>
+</record>
+<record>
+  <date>2020-08-05T15:08:02.843635700Z</date>
+  <millis>1596640082843</millis>
+  <nanos>635700</nanos>
+  <sequence>9</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>org.example.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>yahoo.txt renamed to yahooepam.txt</message>
+</record>
+<record>
+  <date>2020-08-05T15:08:02.844480200Z</date>
+  <millis>1596640082844</millis>
+  <nanos>480200</nanos>
+  <sequence>10</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>org.example.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>amazon.txt exists</message>
+</record>
+<record>
+  <date>2020-08-05T15:08:02.846039400Z</date>
+  <millis>1596640082846</millis>
+  <nanos>39400</nanos>
+  <sequence>11</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>org.example.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>new name amazonepam.txt was generated from amazon.txt because of the suffix - epam</message>
+</record>
+<record>
+  <date>2020-08-05T15:08:02.850000800Z</date>
+  <millis>1596640082850</millis>
+  <nanos>800</nanos>
+  <sequence>12</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>org.example.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>amazon.txt renamed to amazonepam.txt</message>
+</record>
+<record>
+  <date>2020-08-05T15:08:02.852982Z</date>
+  <millis>1596640082852</millis>
+  <nanos>982000</nanos>
+  <sequence>13</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>org.example.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>google.txt exists</message>
+</record>
+<record>
+  <date>2020-08-05T15:08:02.854977100Z</date>
+  <millis>1596640082854</millis>
+  <nanos>977100</nanos>
+  <sequence>14</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>org.example.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>new name googleepam.txt was generated from google.txt because of the suffix - epam</message>
+</record>
+<record>
+  <date>2020-08-05T15:08:02.857684800Z</date>
+  <millis>1596640082857</millis>
+  <nanos>684800</nanos>
+  <sequence>15</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>org.example.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>google.txt renamed to googleepam.txt</message>
+</record>
+</log>
