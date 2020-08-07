@@ -1,0 +1,62 @@
+[INFO ] 2020-08-07 12:09:16.920 [main] Main - application has  started
+[INFO ] 2020-08-07 12:09:16.928 [main] Main - reading and analyzing content of config file
+[ERROR] 2020-08-07 12:09:16.929 [main] Main - google.txt file didn't exist, file renaming process failed
+[ERROR] 2020-08-07 12:09:16.929 [main] Main - yahoo.txt file didn't exist, file renaming process failed
+[ERROR] 2020-08-07 12:09:16.930 [main] Main - amazon.txt file didn't exist, file renaming process failed
+[ERROR] 2020-08-07 12:09:16.931 [main] Main - apple.txt file didn't exist, file renaming process failed
+[INFO ] 2020-08-07 12:11:10.490 [main] Main - application has  started
+[INFO ] 2020-08-07 12:11:10.498 [main] Main - Started loading resources from config resources file
+[INFO ] 2020-08-07 12:11:10.529 [main] Main - loading resources from config resources file has finished
+[INFO ] 2020-08-07 12:11:10.529 [main] Main - reading and analyzing content of config file
+[ERROR] 2020-08-07 12:11:10.530 [main] Main - google.txt file didn't exist, file renaming process failed
+[ERROR] 2020-08-07 12:11:10.531 [main] Main - yahoo.txt file didn't exist, file renaming process failed
+[ERROR] 2020-08-07 12:11:10.531 [main] Main - amazon.txt file didn't exist, file renaming process failed
+[ERROR] 2020-08-07 12:11:10.532 [main] Main - apple.txt file didn't exist, file renaming process failed
+[INFO ] 2020-08-07 12:11:44.405 [main] Main - application has  started
+[INFO ] 2020-08-07 12:11:44.413 [main] Main - Started loading resources from config resources file
+[INFO ] 2020-08-07 12:11:44.414 [main] Main - loading resources from config resources file has finished
+[INFO ] 2020-08-07 12:11:44.415 [main] Main - reading and analyzing content of config file
+[ERROR] 2020-08-07 12:11:44.415 [main] Main - google.txt file didn't exist, file renaming process failed
+[ERROR] 2020-08-07 12:11:44.416 [main] Main - yahoo.txt file didn't exist, file renaming process failed
+[ERROR] 2020-08-07 12:11:44.416 [main] Main - amazon.txt file didn't exist, file renaming process failed
+[ERROR] 2020-08-07 12:11:44.417 [main] Main - apple.txt file didn't exist, file renaming process failed
+[INFO ] 2020-08-07 14:05:17.295 [main] Main - application has  started
+[INFO ] 2020-08-07 14:05:17.301 [main] Main - Started loading resources from config resources file
+[INFO ] 2020-08-07 14:05:17.303 [main] Main - loading resources from config resources file has finished
+[INFO ] 2020-08-07 14:05:17.303 [main] Main - reading and analyzing content of config file
+[ERROR] 2020-08-07 14:05:17.304 [main] Main - google.txt file didn't exist, file renaming process failed
+[ERROR] 2020-08-07 14:05:17.304 [main] Main - yahoo.txt file didn't exist, file renaming process failed
+[ERROR] 2020-08-07 14:05:17.304 [main] Main - amazon.txt file didn't exist, file renaming process failed
+[ERROR] 2020-08-07 14:05:17.305 [main] Main - apple.txt file didn't exist, file renaming process failed
+[INFO ] 2020-08-07 14:05:51.339 [main] Main - application has  started
+[INFO ] 2020-08-07 14:05:51.346 [main] Main - Started loading resources from config resources file
+[INFO ] 2020-08-07 14:05:51.347 [main] Main - loading resources from config resources file has finished
+[INFO ] 2020-08-07 14:05:51.348 [main] Main - reading and analyzing content of config file
+[ERROR] 2020-08-07 14:05:51.348 [main] Main - google.txt file didn't exist, file renaming process failed
+[ERROR] 2020-08-07 14:05:51.349 [main] Main - yahoo.txt file didn't exist, file renaming process failed
+[ERROR] 2020-08-07 14:05:51.350 [main] Main - amazon.txt file didn't exist, file renaming process failed
+[ERROR] 2020-08-07 14:05:51.350 [main] Main - apple.txt file didn't exist, file renaming process failed
+[INFO ] 2020-08-07 14:06:08.254 [main] Main - application has  started
+[INFO ] 2020-08-07 14:06:08.260 [main] Main - Started loading resources from config resources file
+[INFO ] 2020-08-07 14:06:08.261 [main] Main - loading resources from config resources file has finished
+[INFO ] 2020-08-07 14:06:08.261 [main] Main - reading and analyzing content of config file
+[ERROR] 2020-08-07 14:06:08.262 [main] Main - google.txt file didn't exist, file renaming process failed
+[ERROR] 2020-08-07 14:06:08.263 [main] Main - yahoo.txt file didn't exist, file renaming process failed
+[ERROR] 2020-08-07 14:06:08.263 [main] Main - amazon.txt file didn't exist, file renaming process failed
+[ERROR] 2020-08-07 14:06:08.264 [main] Main - apple.txt file didn't exist, file renaming process failed
+[INFO ] 2020-08-07 14:08:20.913 [main] Main - application has  started
+[INFO ] 2020-08-07 14:08:20.919 [main] Main - Started loading resources from config resources file
+[INFO ] 2020-08-07 14:08:20.921 [main] Main - loading resources from config resources file has finished
+[INFO ] 2020-08-07 14:08:20.921 [main] Main - reading and analyzing content of config file
+[INFO ] 2020-08-07 14:08:20.922 [main] Main - google.txt exists
+[INFO ] 2020-08-07 14:08:20.923 [main] Main - new name googleepam.txt was generated from google.txt because of the suffix - epam
+[INFO ] 2020-08-07 14:08:20.923 [main] Main - google.txt renamed to googleepam.txt
+[INFO ] 2020-08-07 14:08:20.924 [main] Main - yahoo.txt exists
+[INFO ] 2020-08-07 14:08:20.925 [main] Main - new name yahooepam.txt was generated from yahoo.txt because of the suffix - epam
+[INFO ] 2020-08-07 14:08:20.925 [main] Main - yahoo.txt renamed to yahooepam.txt
+[INFO ] 2020-08-07 14:08:20.926 [main] Main - amazon.txt exists
+[INFO ] 2020-08-07 14:08:20.927 [main] Main - new name amazonepam.txt was generated from amazon.txt because of the suffix - epam
+[INFO ] 2020-08-07 14:08:20.928 [main] Main - amazon.txt renamed to amazonepam.txt
+[INFO ] 2020-08-07 14:08:20.928 [main] Main - apple.txt exists
+[INFO ] 2020-08-07 14:08:20.929 [main] Main - new name appleepam.txt was generated from apple.txt because of the suffix - epam
+[INFO ] 2020-08-07 14:08:20.929 [main] Main - apple.txt renamed to appleepam.txt
