@@ -60,3 +60,11 @@
 [INFO ] 2020-08-07 14:08:20.928 [main] Main - apple.txt exists
 [INFO ] 2020-08-07 14:08:20.929 [main] Main - new name appleepam.txt was generated from apple.txt because of the suffix - epam
 [INFO ] 2020-08-07 14:08:20.929 [main] Main - apple.txt renamed to appleepam.txt
+[INFO ] 2020-08-10 14:41:33.934 [main] Main - application has  started
+[INFO ] 2020-08-10 14:41:33.948 [main] Main - Started loading resources from config resources file
+[INFO ] 2020-08-10 14:41:33.955 [main] Main - loading resources from config resources file has finished
+[INFO ] 2020-08-10 14:41:33.955 [main] Main - reading and analyzing content of config file
+[ERROR] 2020-08-10 14:41:33.956 [main] Main - google.txt file didn't exist, file renaming process failed
+[ERROR] 2020-08-10 14:41:33.956 [main] Main - yahoo.txt file didn't exist, file renaming process failed
+[ERROR] 2020-08-10 14:41:33.956 [main] Main - amazon.txt file didn't exist, file renaming process failed
+[ERROR] 2020-08-10 14:41:33.957 [main] Main - apple.txt file didn't exist, file renaming process failed

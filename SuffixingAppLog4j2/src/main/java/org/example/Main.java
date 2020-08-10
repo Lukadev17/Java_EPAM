@@ -10,7 +10,7 @@ import java.util.Properties;
 public class Main {
     protected static final Logger logr = LogManager.getLogger();
 
-    public static void main( String[] args ) {
+    public static void main(String[] args) {
         logr.info( "application has  started");
 
         Config config = new Config();

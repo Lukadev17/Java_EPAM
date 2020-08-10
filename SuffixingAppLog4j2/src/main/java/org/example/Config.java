@@ -13,7 +13,7 @@ public class Config {
 
     public Properties getPropValues() {
         Properties prop = new Properties();
-        String propFileName = "log4j2.properties";
+        String propFileName = "suffix-config.properties";
         logr.info( "Started loading resources from config resources file");
         try {
             inputStream = getClass().getClassLoader().getResourceAsStream(propFileName);
