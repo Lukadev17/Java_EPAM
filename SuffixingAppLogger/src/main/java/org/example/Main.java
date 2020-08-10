@@ -13,7 +13,7 @@ public class Main {
     protected final static Logger logr;
     static {
         InputStream stream = Main.class.getClassLoader().
-                getResourceAsStream("Config.properties");
+                getResourceAsStream("config.properties");
         try {
             LogManager.getLogManager().readConfiguration(stream);
         } catch (IOException e) {
