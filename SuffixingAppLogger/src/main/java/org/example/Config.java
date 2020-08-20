@@ -16,7 +16,7 @@ public class Config {
     public Properties getPropValues() {
 
         Properties prop = new Properties();
-        String propFileName = "Config.properties";
+        String propFileName = "suffix-config.properties";
         try {
             logr.log(Level.INFO, "Started loading resources from config resources file");
             inputStream = getClass().getClassLoader().getResourceAsStream(propFileName);
