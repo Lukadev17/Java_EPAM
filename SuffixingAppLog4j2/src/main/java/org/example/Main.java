@@ -9,12 +9,16 @@ import java.util.Properties;
 
 public class Main {
     protected static final Logger logr = LogManager.getLogger();
+    private static String oldFiles = "";
+    private static String newFiles = "";
 
-    public static void main( String[] args ) {
+
+    public static void main(String[] args) {
         logr.info( "application has  started");
 
         Config config = new Config();
         Properties properties = config.getPropValues();
+
         String suffix = properties.getProperty("suffix");
         String filePaths = properties.getProperty("filePaths");
         List<String> filePathArray = new ArrayList<>(Arrays.asList(filePaths.split(",")));
@@ -25,9 +29,11 @@ public class Main {
             File oldFile = new File(filePath);
             if (oldFile.exists()) {
                 logr.info(oldFile.getName() + " exists" );
+                oldFiles = oldFiles + " " + oldFile.getName();
                 File newFileName = new File(filePath.substring(0, filePath.lastIndexOf('.')) + properties.getProperty("suffix") + filePath.substring(filePath.lastIndexOf('.'), filePath.length()));
                 boolean success = oldFile.renameTo(newFileName);
                 logr.info("new name " + newFileName.getName() + " was generated from " + oldFile.getName() +  " because of the suffix - " + suffix);
+                newFiles =newFiles + " " + newFileName.getName();
 
                 if (success) {
                     logr.info(oldFile.getName() + " renamed to " + newFileName.getName());
@@ -41,6 +47,12 @@ public class Main {
                 System.out.println(oldFile.getName() + " did not exist");
             }
         }
+        if (oldFiles.equals("") == false && newFiles.equals("") == false) {
+            logr.info(oldFiles);
+            logr.info(newFiles);
+        }
+
+        logr.info("Application finished");
 
     }
 }
