@@ -1,0 +1,2655 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Events xmlns="http://logging.apache.org/log4j/2.0/events">
+</Events>
+</Events>
+</Events>
+</Events>
+</Events>
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597899771" nanoOfSecond="341911200"/>
+    <Message>application has  started</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597899771" nanoOfSecond="609607800"/>
+    <Message>Started loading resources from config resources file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597899771" nanoOfSecond="634528600"/>
+    <Message>loading resources from config resources file has finished</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597899771" nanoOfSecond="635523900"/>
+    <Message>reading and analyzing content of config file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597899771" nanoOfSecond="637850600"/>
+    <Message>google.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597899771" nanoOfSecond="638517100"/>
+    <Message>yahoo.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597899771" nanoOfSecond="640512400"/>
+    <Message>amazon.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597899771" nanoOfSecond="641556800"/>
+    <Message>apple.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597899771" nanoOfSecond="652479600"/>
+    <Message>null</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597899771" nanoOfSecond="653477700"/>
+    <Message>null</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597899771" nanoOfSecond="654602600"/>
+    <Message>Application finished</Message>
+  </Event>
+</Events>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597899792" nanoOfSecond="870115400"/>
+    <Message>application has  started</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597899793" nanoOfSecond="121766900"/>
+    <Message>Started loading resources from config resources file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597899793" nanoOfSecond="124482700"/>
+    <Message>loading resources from config resources file has finished</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597899793" nanoOfSecond="125449700"/>
+    <Message>reading and analyzing content of config file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597899793" nanoOfSecond="127426700"/>
+    <Message>google.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597899793" nanoOfSecond="128518600"/>
+    <Message>yahoo.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597899793" nanoOfSecond="129921300"/>
+    <Message>amazon.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597899793" nanoOfSecond="131414800"/>
+    <Message>apple.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597899793" nanoOfSecond="140392300"/>
+    <Message>null</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597899793" nanoOfSecond="141390700"/>
+    <Message>null</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597899793" nanoOfSecond="144381200"/>
+    <Message>Application finished</Message>
+  </Event>
+</Events>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597899890" nanoOfSecond="378545500"/>
+    <Message>application has  started</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597899890" nanoOfSecond="729605000"/>
+    <Message>Started loading resources from config resources file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597899890" nanoOfSecond="733594800"/>
+    <Message>loading resources from config resources file has finished</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597899890" nanoOfSecond="735619200"/>
+    <Message>reading and analyzing content of config file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597899890" nanoOfSecond="737002700"/>
+    <Message>google.txt exists</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597899890" nanoOfSecond="739684500"/>
+    <Message>new name googleepam.txt was generated from google.txt because of the suffix - epam</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597899890" nanoOfSecond="742571500"/>
+    <Message>google.txt renamed to googleepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597899890" nanoOfSecond="743876900"/>
+    <Message>yahoo.txt exists</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597899890" nanoOfSecond="764512100"/>
+    <Message>new name yahooepam.txt was generated from yahoo.txt because of the suffix - epam</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597899890" nanoOfSecond="765510400"/>
+    <Message>yahoo.txt renamed to yahooepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597899890" nanoOfSecond="769500400"/>
+    <Message>amazon.txt exists</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597899890" nanoOfSecond="775533300"/>
+    <Message>new name amazonepam.txt was generated from amazon.txt because of the suffix - epam</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597899890" nanoOfSecond="778475300"/>
+    <Message>amazon.txt renamed to amazonepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597899890" nanoOfSecond="780469300"/>
+    <Message>apple.txt exists</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597899890" nanoOfSecond="783460600"/>
+    <Message>new name appleepam.txt was generated from apple.txt because of the suffix - epam</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597899890" nanoOfSecond="784921100"/>
+    <Message>apple.txt renamed to appleepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597899890" nanoOfSecond="786454200"/>
+    <Message>nullgoogle.txtyahoo.txtamazon.txtapple.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597899890" nanoOfSecond="787450700"/>
+    <Message>nullgoogleepam.txtyahooepam.txtamazonepam.txtappleepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597899890" nanoOfSecond="788448300"/>
+    <Message>Application finished</Message>
+  </Event>
+</Events>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900075" nanoOfSecond="533741700"/>
+    <Message>application has  started</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900075" nanoOfSecond="813769300"/>
+    <Message>Started loading resources from config resources file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900075" nanoOfSecond="817758000"/>
+    <Message>loading resources from config resources file has finished</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900075" nanoOfSecond="818755600"/>
+    <Message>reading and analyzing content of config file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900075" nanoOfSecond="820750200"/>
+    <Message>google.txt exists</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900075" nanoOfSecond="824748700"/>
+    <Message>new name googleepam.txt was generated from google.txt because of the suffix - epam</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900075" nanoOfSecond="826734800"/>
+    <Message>google.txt renamed to googleepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900075" nanoOfSecond="832718500"/>
+    <Message>yahoo.txt exists</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900075" nanoOfSecond="917537100"/>
+    <Message>new name yahooepam.txt was generated from yahoo.txt because of the suffix - epam</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900075" nanoOfSecond="921482300"/>
+    <Message>yahoo.txt renamed to yahooepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900075" nanoOfSecond="923477000"/>
+    <Message>amazon.txt exists</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900075" nanoOfSecond="928463400"/>
+    <Message>new name amazonepam.txt was generated from amazon.txt because of the suffix - epam</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900075" nanoOfSecond="930457800"/>
+    <Message>amazon.txt renamed to amazonepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900075" nanoOfSecond="931576700"/>
+    <Message>apple.txt exists</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900075" nanoOfSecond="934445500"/>
+    <Message>new name appleepam.txt was generated from apple.txt because of the suffix - epam</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900075" nanoOfSecond="935444400"/>
+    <Message>apple.txt renamed to appleepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900075" nanoOfSecond="937438500"/>
+    <Message>  google.txt yahoo.txt amazon.txt apple.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900075" nanoOfSecond="938435800"/>
+    <Message>  googleepam.txt yahooepam.txt amazonepam.txt appleepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900075" nanoOfSecond="939433900"/>
+    <Message>Application finished</Message>
+  </Event>
+</Events>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900159" nanoOfSecond="973311700"/>
+    <Message>application has  started</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900160" nanoOfSecond="207914400"/>
+    <Message>Started loading resources from config resources file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900160" nanoOfSecond="210214400"/>
+    <Message>loading resources from config resources file has finished</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900160" nanoOfSecond="212014600"/>
+    <Message>reading and analyzing content of config file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900160" nanoOfSecond="212905300"/>
+    <Message>google.txt exists</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900160" nanoOfSecond="215292300"/>
+    <Message>new name googleepam.txt was generated from google.txt because of the suffix - epam</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900160" nanoOfSecond="215895300"/>
+    <Message>google.txt renamed to googleepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900160" nanoOfSecond="216925700"/>
+    <Message>yahoo.txt exists</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900160" nanoOfSecond="226865000"/>
+    <Message>new name yahooepam.txt was generated from yahoo.txt because of the suffix - epam</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900160" nanoOfSecond="229857400"/>
+    <Message>yahoo.txt renamed to yahooepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900160" nanoOfSecond="232849200"/>
+    <Message>amazon.txt exists</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900160" nanoOfSecond="238533600"/>
+    <Message>new name amazonepam.txt was generated from amazon.txt because of the suffix - epam</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900160" nanoOfSecond="239832200"/>
+    <Message>amazon.txt renamed to amazonepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900160" nanoOfSecond="240827700"/>
+    <Message>apple.txt exists</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900160" nanoOfSecond="242909400"/>
+    <Message>new name appleepam.txt was generated from apple.txt because of the suffix - epam</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900160" nanoOfSecond="243820600"/>
+    <Message>apple.txt renamed to appleepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900160" nanoOfSecond="244816700"/>
+    <Message>  google.txt yahoo.txt amazon.txt apple.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900160" nanoOfSecond="245816200"/>
+    <Message>  googleepam.txt yahooepam.txt amazonepam.txt appleepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900160" nanoOfSecond="246310400"/>
+    <Message>Application finished</Message>
+  </Event>
+</Events>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900313" nanoOfSecond="392274900"/>
+    <Message>application has  started</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900313" nanoOfSecond="632158900"/>
+    <Message>Started loading resources from config resources file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900313" nanoOfSecond="635468600"/>
+    <Message>loading resources from config resources file has finished</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900313" nanoOfSecond="637240100"/>
+    <Message>reading and analyzing content of config file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900313" nanoOfSecond="638143400"/>
+    <Message>google.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900313" nanoOfSecond="640364300"/>
+    <Message>yahoo.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900313" nanoOfSecond="642168900"/>
+    <Message>amazon.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900313" nanoOfSecond="643160000"/>
+    <Message>apple.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900313" nanoOfSecond="653103000"/>
+    <Message> </Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900313" nanoOfSecond="656095000"/>
+    <Message> </Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900313" nanoOfSecond="659086600"/>
+    <Message>Application finished</Message>
+  </Event>
+</Events>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900347" nanoOfSecond="955855300"/>
+    <Message>application has  started</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900348" nanoOfSecond="231075300"/>
+    <Message>Started loading resources from config resources file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900348" nanoOfSecond="234067500"/>
+    <Message>loading resources from config resources file has finished</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900348" nanoOfSecond="235066500"/>
+    <Message>reading and analyzing content of config file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900348" nanoOfSecond="236062700"/>
+    <Message>google.txt exists</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900348" nanoOfSecond="238090700"/>
+    <Message>new name googleepam.txt was generated from google.txt because of the suffix - epam</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900348" nanoOfSecond="239484300"/>
+    <Message>google.txt renamed to googleepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900348" nanoOfSecond="240151300"/>
+    <Message>yahoo.txt exists</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900348" nanoOfSecond="249110300"/>
+    <Message>new name yahooepam.txt was generated from yahoo.txt because of the suffix - epam</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900348" nanoOfSecond="251022100"/>
+    <Message>yahoo.txt renamed to yahooepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900348" nanoOfSecond="253017600"/>
+    <Message>amazon.txt exists</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900348" nanoOfSecond="256047400"/>
+    <Message>new name amazonepam.txt was generated from amazon.txt because of the suffix - epam</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900348" nanoOfSecond="258005600"/>
+    <Message>amazon.txt renamed to amazonepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900348" nanoOfSecond="258999400"/>
+    <Message>apple.txt exists</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900348" nanoOfSecond="262989700"/>
+    <Message>new name appleepam.txt was generated from apple.txt because of the suffix - epam</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900348" nanoOfSecond="263988000"/>
+    <Message>apple.txt renamed to appleepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900348" nanoOfSecond="265982800"/>
+    <Message>  google.txt yahoo.txt amazon.txt apple.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900348" nanoOfSecond="266979000"/>
+    <Message>  googleepam.txt yahooepam.txt amazonepam.txt appleepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900348" nanoOfSecond="267977100"/>
+    <Message>Application finished</Message>
+  </Event>
+</Events>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900446" nanoOfSecond="610344900"/>
+    <Message>application has  started</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900446" nanoOfSecond="879623600"/>
+    <Message>Started loading resources from config resources file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900446" nanoOfSecond="883611900"/>
+    <Message>loading resources from config resources file has finished</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900446" nanoOfSecond="885607600"/>
+    <Message>reading and analyzing content of config file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900446" nanoOfSecond="887896100"/>
+    <Message>google.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900446" nanoOfSecond="890595100"/>
+    <Message>yahoo.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900446" nanoOfSecond="893585400"/>
+    <Message>amazon.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900446" nanoOfSecond="895580400"/>
+    <Message>apple.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900446" nanoOfSecond="916525000"/>
+    <Message> </Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900446" nanoOfSecond="918518500"/>
+    <Message> </Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900446" nanoOfSecond="927494900"/>
+    <Message>Application finished</Message>
+  </Event>
+</Events>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900513" nanoOfSecond="620340100"/>
+    <Message>application has  started</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900513" nanoOfSecond="871922700"/>
+    <Message>Started loading resources from config resources file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900513" nanoOfSecond="875656700"/>
+    <Message>loading resources from config resources file has finished</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900513" nanoOfSecond="877650800"/>
+    <Message>reading and analyzing content of config file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900513" nanoOfSecond="879643600"/>
+    <Message>google.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900513" nanoOfSecond="881639900"/>
+    <Message>yahoo.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900513" nanoOfSecond="883634800"/>
+    <Message>amazon.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900513" nanoOfSecond="885629300"/>
+    <Message>apple.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900513" nanoOfSecond="896977900"/>
+    <Message> </Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900513" nanoOfSecond="906573200"/>
+    <Message> </Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900513" nanoOfSecond="910984300"/>
+    <Message>Application finished</Message>
+  </Event>
+</Events>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900910" nanoOfSecond="69322400"/>
+    <Message>application has  started</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900910" nanoOfSecond="425464700"/>
+    <Message>Started loading resources from config resources file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900910" nanoOfSecond="429357600"/>
+    <Message>loading resources from config resources file has finished</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900910" nanoOfSecond="430355500"/>
+    <Message>reading and analyzing content of config file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900910" nanoOfSecond="432350500"/>
+    <Message>google.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900910" nanoOfSecond="434344800"/>
+    <Message>yahoo.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900910" nanoOfSecond="438333700"/>
+    <Message>amazon.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900910" nanoOfSecond="458280100"/>
+    <Message>apple.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900910" nanoOfSecond="469251000"/>
+    <Message></Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900910" nanoOfSecond="471246100"/>
+    <Message>null</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597900910" nanoOfSecond="473240700"/>
+    <Message>Application finished</Message>
+  </Event>
+</Events>
+</Events>
+</Events>
+</Events>
+</Events>
+</Events>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901483" nanoOfSecond="858769200"/>
+    <Message>application has  started</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901484" nanoOfSecond="159919000"/>
+    <Message>Started loading resources from config resources file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901484" nanoOfSecond="165911000"/>
+    <Message>loading resources from config resources file has finished</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901484" nanoOfSecond="167895800"/>
+    <Message>reading and analyzing content of config file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901484" nanoOfSecond="170888400"/>
+    <Message>google.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901484" nanoOfSecond="174878200"/>
+    <Message>yahoo.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901484" nanoOfSecond="181859000"/>
+    <Message>amazon.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901484" nanoOfSecond="187842800"/>
+    <Message>apple.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901484" nanoOfSecond="198813400"/>
+    <Message></Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901484" nanoOfSecond="202802000"/>
+    <Message></Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901484" nanoOfSecond="216766400"/>
+    <Message>Application finished</Message>
+  </Event>
+</Events>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901521" nanoOfSecond="838815100"/>
+    <Message>application has  started</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901522" nanoOfSecond="117071000"/>
+    <Message>Started loading resources from config resources file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901522" nanoOfSecond="120061400"/>
+    <Message>loading resources from config resources file has finished</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901522" nanoOfSecond="121060200"/>
+    <Message>reading and analyzing content of config file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901522" nanoOfSecond="123092600"/>
+    <Message>google.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901522" nanoOfSecond="125049000"/>
+    <Message>yahoo.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901522" nanoOfSecond="127043300"/>
+    <Message>amazon.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901522" nanoOfSecond="129042500"/>
+    <Message>apple.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901522" nanoOfSecond="140009600"/>
+    <Message></Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901522" nanoOfSecond="142661400"/>
+    <Message></Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901522" nanoOfSecond="143997900"/>
+    <Message>Application finished</Message>
+  </Event>
+</Events>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901631" nanoOfSecond="319258100"/>
+    <Message>application has  started</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901631" nanoOfSecond="608519600"/>
+    <Message>Started loading resources from config resources file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901631" nanoOfSecond="611475800"/>
+    <Message>loading resources from config resources file has finished</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901631" nanoOfSecond="612518500"/>
+    <Message>reading and analyzing content of config file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901631" nanoOfSecond="613472200"/>
+    <Message>google.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901631" nanoOfSecond="618459600"/>
+    <Message>yahoo.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901631" nanoOfSecond="619488500"/>
+    <Message>amazon.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901631" nanoOfSecond="622448400"/>
+    <Message>apple.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901631" nanoOfSecond="629429700"/>
+    <Message></Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901631" nanoOfSecond="631423600"/>
+    <Message></Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901631" nanoOfSecond="632421500"/>
+    <Message>Application finished</Message>
+  </Event>
+</Events>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901671" nanoOfSecond="866274000"/>
+    <Message>application has  started</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901672" nanoOfSecond="112458900"/>
+    <Message>Started loading resources from config resources file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901672" nanoOfSecond="115488500"/>
+    <Message>loading resources from config resources file has finished</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901672" nanoOfSecond="116450000"/>
+    <Message>reading and analyzing content of config file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901672" nanoOfSecond="118613700"/>
+    <Message>google.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901672" nanoOfSecond="122835400"/>
+    <Message>yahoo.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901672" nanoOfSecond="124428600"/>
+    <Message>amazon.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901672" nanoOfSecond="125857900"/>
+    <Message>apple.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901672" nanoOfSecond="134401700"/>
+    <Message></Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901672" nanoOfSecond="137394500"/>
+    <Message></Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901672" nanoOfSecond="138391300"/>
+    <Message>Application finished</Message>
+  </Event>
+</Events>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901791" nanoOfSecond="264204800"/>
+    <Message>application has  started</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901791" nanoOfSecond="564400200"/>
+    <Message>Started loading resources from config resources file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901791" nanoOfSecond="567392700"/>
+    <Message>loading resources from config resources file has finished</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901791" nanoOfSecond="568389500"/>
+    <Message>reading and analyzing content of config file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901791" nanoOfSecond="569385200"/>
+    <Message>google.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901791" nanoOfSecond="574373500"/>
+    <Message>yahoo.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901791" nanoOfSecond="576368600"/>
+    <Message>amazon.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901791" nanoOfSecond="584346800"/>
+    <Message>apple.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901791" nanoOfSecond="598309800"/>
+    <Message>Application finished</Message>
+  </Event>
+</Events>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901844" nanoOfSecond="549655400"/>
+    <Message>application has  started</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901844" nanoOfSecond="802983300"/>
+    <Message>Started loading resources from config resources file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901844" nanoOfSecond="806274000"/>
+    <Message>loading resources from config resources file has finished</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901844" nanoOfSecond="807963300"/>
+    <Message>reading and analyzing content of config file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901844" nanoOfSecond="809525200"/>
+    <Message>google.txt exists</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901844" nanoOfSecond="811002300"/>
+    <Message>new name googleepam.txt was generated from google.txt because of the suffix - epam</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901844" nanoOfSecond="812949600"/>
+    <Message>google.txt renamed to googleepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901844" nanoOfSecond="814945100"/>
+    <Message>yahoo.txt exists</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901844" nanoOfSecond="828907600"/>
+    <Message>new name yahooepam.txt was generated from yahoo.txt because of the suffix - epam</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901844" nanoOfSecond="831983100"/>
+    <Message>yahoo.txt renamed to yahooepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901844" nanoOfSecond="834892400"/>
+    <Message>amazon.txt exists</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901844" nanoOfSecond="836938700"/>
+    <Message>new name amazonepam.txt was generated from amazon.txt because of the suffix - epam</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901844" nanoOfSecond="838935600"/>
+    <Message>amazon.txt renamed to amazonepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901844" nanoOfSecond="839878800"/>
+    <Message>apple.txt exists</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901844" nanoOfSecond="843869200"/>
+    <Message>new name appleepam.txt was generated from apple.txt because of the suffix - epam</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901844" nanoOfSecond="847856800"/>
+    <Message>apple.txt renamed to appleepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901844" nanoOfSecond="850876100"/>
+    <Message> google.txt yahoo.txt amazon.txt apple.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901844" nanoOfSecond="851846400"/>
+    <Message> googleepam.txt yahooepam.txt amazonepam.txt appleepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597901844" nanoOfSecond="853841400"/>
+    <Message>Application finished</Message>
+  </Event>
+</Events>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597902292" nanoOfSecond="200358800"/>
+    <Message>application has  started</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597902292" nanoOfSecond="458666500"/>
+    <Message>Started loading resources from config resources file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597902292" nanoOfSecond="463653900"/>
+    <Message>loading resources from config resources file has finished</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597902292" nanoOfSecond="464768500"/>
+    <Message>reading and analyzing content of config file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597902292" nanoOfSecond="466646700"/>
+    <Message>google.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597902292" nanoOfSecond="470634200"/>
+    <Message>yahoo.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597902292" nanoOfSecond="471631400"/>
+    <Message>amazon.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597902292" nanoOfSecond="473663300"/>
+    <Message>apple.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597902292" nanoOfSecond="481617200"/>
+    <Message>Application finished</Message>
+  </Event>
+</Events>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597902379" nanoOfSecond="710268400"/>
+    <Message>application has  started</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597902379" nanoOfSecond="965584600"/>
+    <Message>Started loading resources from config resources file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597902379" nanoOfSecond="969574300"/>
+    <Message>loading resources from config resources file has finished</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597902379" nanoOfSecond="970572500"/>
+    <Message>reading and analyzing content of config file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597902379" nanoOfSecond="972567800"/>
+    <Message>google.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597902379" nanoOfSecond="977551900"/>
+    <Message>yahoo.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597902379" nanoOfSecond="979567700"/>
+    <Message>amazon.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597902379" nanoOfSecond="981541200"/>
+    <Message>apple.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1597902379" nanoOfSecond="989558900"/>
+    <Message>Application finished</Message>
+  </Event>
+</Events>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599065973" nanoOfSecond="840768300"/>
+    <Message>application has  started</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599065974" nanoOfSecond="37818700"/>
+    <Message>Started loading resources from config resources file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599065974" nanoOfSecond="40456900"/>
+    <Message>loading resources from config resources file has finished</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599065974" nanoOfSecond="41232800"/>
+    <Message>reading and analyzing content of config file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599065974" nanoOfSecond="43226900"/>
+    <Message>google.txt exists</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599065974" nanoOfSecond="45487700"/>
+    <Message>new name googleepam.txt was generated from google.txt because of the suffix - EPAM</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599065974" nanoOfSecond="46217900"/>
+    <Message>google.txt renamed to googleepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599065974" nanoOfSecond="47217400"/>
+    <Message>yahoo.txt exists</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599065974" nanoOfSecond="54655000"/>
+    <Message>new name yahooepam.txt was generated from yahoo.txt because of the suffix - EPAM</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599065974" nanoOfSecond="56191300"/>
+    <Message>yahoo.txt renamed to yahooepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599065974" nanoOfSecond="57188300"/>
+    <Message>amazon.txt exists</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599065974" nanoOfSecond="59257600"/>
+    <Message>new name amazonepam.txt was generated from amazon.txt because of the suffix - EPAM</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599065974" nanoOfSecond="60180300"/>
+    <Message>amazon.txt renamed to amazonepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599065974" nanoOfSecond="61221900"/>
+    <Message>apple.txt exists</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599065974" nanoOfSecond="63629400"/>
+    <Message>new name appleepam.txt was generated from apple.txt because of the suffix - EPAM</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599065974" nanoOfSecond="64204600"/>
+    <Message>apple.txt renamed to appleepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599065974" nanoOfSecond="66167000"/>
+    <Message> google.txt yahoo.txt amazon.txt apple.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599065974" nanoOfSecond="67195500"/>
+    <Message> googleepam.txt yahooepam.txt amazonepam.txt appleepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599065974" nanoOfSecond="68158600"/>
+    <Message>Application finished</Message>
+  </Event>
+</Events>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599066826" nanoOfSecond="8710200"/>
+    <Message>application has  started</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599066826" nanoOfSecond="273553800"/>
+    <Message>Started loading resources from config resources file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599066826" nanoOfSecond="277227000"/>
+    <Message>loading resources from config resources file has finished</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599066826" nanoOfSecond="279220100"/>
+    <Message>reading and analyzing content of config file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599066826" nanoOfSecond="280288300"/>
+    <Message>google.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599066826" nanoOfSecond="284206800"/>
+    <Message>yahoo.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599066826" nanoOfSecond="287200400"/>
+    <Message>amazon.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599066826" nanoOfSecond="288195600"/>
+    <Message>apple.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599066826" nanoOfSecond="324204500"/>
+    <Message>Application finished</Message>
+  </Event>
+</Events>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599066866" nanoOfSecond="731859000"/>
+    <Message>application has  started</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599066867" nanoOfSecond="19036700"/>
+    <Message>Started loading resources from config resources file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599066867" nanoOfSecond="23039500"/>
+    <Message>loading resources from config resources file has finished</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599066867" nanoOfSecond="24321300"/>
+    <Message>reading and analyzing content of config file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599066867" nanoOfSecond="28013500"/>
+    <Message>google.txt exists</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599066867" nanoOfSecond="32345800"/>
+    <Message>new name googleepam.txt was generated from google.txt because of the suffix - EPAM</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599066867" nanoOfSecond="33997900"/>
+    <Message>google.txt renamed to googleepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599066867" nanoOfSecond="40551500"/>
+    <Message>yahoo.txt exists</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599066867" nanoOfSecond="51947600"/>
+    <Message>new name yahooepam.txt was generated from yahoo.txt because of the suffix - EPAM</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599066867" nanoOfSecond="64914900"/>
+    <Message>yahoo.txt renamed to yahooepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599066867" nanoOfSecond="66909400"/>
+    <Message>amazon.txt exists</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599066867" nanoOfSecond="71896300"/>
+    <Message>new name amazonepam.txt was generated from amazon.txt because of the suffix - EPAM</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599066867" nanoOfSecond="73891000"/>
+    <Message>amazon.txt renamed to amazonepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599066867" nanoOfSecond="75885900"/>
+    <Message>apple.txt exists</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599066867" nanoOfSecond="79892300"/>
+    <Message>new name appleepam.txt was generated from apple.txt because of the suffix - EPAM</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599066867" nanoOfSecond="82073600"/>
+    <Message>apple.txt renamed to appleepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599066867" nanoOfSecond="111788600"/>
+    <Message> google.txt yahoo.txt amazon.txt apple.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599066867" nanoOfSecond="113185200"/>
+    <Message> googleepam.txt yahooepam.txt amazonepam.txt appleepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599066867" nanoOfSecond="113807200"/>
+    <Message>Application finished</Message>
+  </Event>
+</Events>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071259" nanoOfSecond="147529300"/>
+    <Message>application has  started</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071259" nanoOfSecond="440313000"/>
+    <Message>Started loading resources from config resources file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071259" nanoOfSecond="444303600"/>
+    <Message>loading resources from config resources file has finished</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071259" nanoOfSecond="446298400"/>
+    <Message>reading and analyzing content of config file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071259" nanoOfSecond="449290100"/>
+    <Message>google.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071259" nanoOfSecond="456271800"/>
+    <Message>yahoo.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071259" nanoOfSecond="459262300"/>
+    <Message>amazon.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071259" nanoOfSecond="462256100"/>
+    <Message>apple.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071259" nanoOfSecond="589913100"/>
+    <Message>Application finished</Message>
+  </Event>
+</Events>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071293" nanoOfSecond="569821400"/>
+    <Message>application has  started</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071293" nanoOfSecond="854986000"/>
+    <Message>Started loading resources from config resources file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071293" nanoOfSecond="857851600"/>
+    <Message>loading resources from config resources file has finished</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071293" nanoOfSecond="858870600"/>
+    <Message>reading and analyzing content of config file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071293" nanoOfSecond="862845100"/>
+    <Message>google.txt exists</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071293" nanoOfSecond="865191400"/>
+    <Message>new name googleepam.txt was generated from google.txt because of the suffix - EPAM</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071293" nanoOfSecond="865830300"/>
+    <Message>google.txt renamed to googleepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071293" nanoOfSecond="867825500"/>
+    <Message>yahoo.txt exists</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071293" nanoOfSecond="880791400"/>
+    <Message>new name yahooepam.txt was generated from yahoo.txt because of the suffix - EPAM</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071293" nanoOfSecond="883021000"/>
+    <Message>yahoo.txt renamed to yahooepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071293" nanoOfSecond="883797600"/>
+    <Message>amazon.txt exists</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071293" nanoOfSecond="886802700"/>
+    <Message>new name amazonepam.txt was generated from amazon.txt because of the suffix - EPAM</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071293" nanoOfSecond="888770100"/>
+    <Message>amazon.txt renamed to amazonepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071293" nanoOfSecond="890765200"/>
+    <Message>apple.txt exists</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071293" nanoOfSecond="893842600"/>
+    <Message>new name appleepam.txt was generated from apple.txt because of the suffix - EPAM</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071293" nanoOfSecond="894753900"/>
+    <Message>apple.txt renamed to appleepam.txt</Message>
+  </Event>
+</Events>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071332" nanoOfSecond="534292300"/>
+    <Message>application has  started</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071332" nanoOfSecond="831489100"/>
+    <Message>Started loading resources from config resources file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071332" nanoOfSecond="833799700"/>
+    <Message>loading resources from config resources file has finished</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071332" nanoOfSecond="834480500"/>
+    <Message>reading and analyzing content of config file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071332" nanoOfSecond="836516100"/>
+    <Message>google.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071332" nanoOfSecond="840508600"/>
+    <Message>yahoo.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071332" nanoOfSecond="842459100"/>
+    <Message>amazon.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071332" nanoOfSecond="845452900"/>
+    <Message>apple.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071332" nanoOfSecond="905292400"/>
+    <Message>Application finished</Message>
+  </Event>
+</Events>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071359" nanoOfSecond="139929800"/>
+    <Message>application has  started</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071359" nanoOfSecond="390259400"/>
+    <Message>Started loading resources from config resources file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071359" nanoOfSecond="393297300"/>
+    <Message>loading resources from config resources file has finished</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071359" nanoOfSecond="394251700"/>
+    <Message>reading and analyzing content of config file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071359" nanoOfSecond="396648900"/>
+    <Message>google.txt exists</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071359" nanoOfSecond="399378400"/>
+    <Message>new name googleepam.txt was generated from google.txt because of the suffix - EPAM</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071359" nanoOfSecond="400232500"/>
+    <Message>google.txt renamed to googleepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071359" nanoOfSecond="402227600"/>
+    <Message>yahoo.txt exists</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071359" nanoOfSecond="410206000"/>
+    <Message>new name yahooepam.txt was generated from yahoo.txt because of the suffix - EPAM</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071359" nanoOfSecond="412201100"/>
+    <Message>yahoo.txt renamed to yahooepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071359" nanoOfSecond="416191100"/>
+    <Message>amazon.txt exists</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071359" nanoOfSecond="419181800"/>
+    <Message>new name amazonepam.txt was generated from amazon.txt because of the suffix - EPAM</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071359" nanoOfSecond="420453200"/>
+    <Message>amazon.txt renamed to amazonepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071359" nanoOfSecond="421176200"/>
+    <Message>apple.txt exists</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071359" nanoOfSecond="424168200"/>
+    <Message>new name appleepam.txt was generated from apple.txt because of the suffix - EPAM</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071359" nanoOfSecond="426589700"/>
+    <Message>apple.txt renamed to appleepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071359" nanoOfSecond="463064100"/>
+    <Message> google.txt yahoo.txt amazon.txt apple.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071359" nanoOfSecond="465059200"/>
+    <Message> googleepam.txt yahooepam.txt amazonepam.txt appleepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071359" nanoOfSecond="466056200"/>
+    <Message>Application finished</Message>
+  </Event>
+</Events>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071460" nanoOfSecond="19680100"/>
+    <Message>application has  started</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071460" nanoOfSecond="330848100"/>
+    <Message>Started loading resources from config resources file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071460" nanoOfSecond="333839900"/>
+    <Message>loading resources from config resources file has finished</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071460" nanoOfSecond="334837000"/>
+    <Message>reading and analyzing content of config file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071460" nanoOfSecond="337827300"/>
+    <Message>google.txt exists</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071460" nanoOfSecond="340820000"/>
+    <Message>new name googleepam.txt was generated from google.txt because of the suffix - EPAM</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071460" nanoOfSecond="341818500"/>
+    <Message>google.txt renamed to googleepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071460" nanoOfSecond="348799400"/>
+    <Message>yahoo.txt exists</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071460" nanoOfSecond="371845500"/>
+    <Message>new name yahooepam.txt was generated from yahoo.txt because of the suffix - EPAM</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071460" nanoOfSecond="373733400"/>
+    <Message>yahoo.txt renamed to yahooepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071460" nanoOfSecond="379716600"/>
+    <Message>amazon.txt exists</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071460" nanoOfSecond="384702900"/>
+    <Message>new name amazonepam.txt was generated from amazon.txt because of the suffix - EPAM</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071460" nanoOfSecond="386697600"/>
+    <Message>amazon.txt renamed to amazonepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071460" nanoOfSecond="389688000"/>
+    <Message>apple.txt exists</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071460" nanoOfSecond="391852500"/>
+    <Message>new name appleepam.txt was generated from apple.txt because of the suffix - EPAM</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071460" nanoOfSecond="393678800"/>
+    <Message>apple.txt renamed to appleepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071460" nanoOfSecond="470474500"/>
+    <Message> google.txt yahoo.txt amazon.txt apple.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071460" nanoOfSecond="472467500"/>
+    <Message> googleepam.txt yahooepam.txt amazonepam.txt appleepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599071460" nanoOfSecond="473465800"/>
+    <Message>Application finished</Message>
+  </Event>
+</Events>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599072410" nanoOfSecond="12347300"/>
+    <Message>application has  started</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599072410" nanoOfSecond="314729300"/>
+    <Message>Started loading resources from config resources file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599072410" nanoOfSecond="318191200"/>
+    <Message>loading resources from config resources file has finished</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599072410" nanoOfSecond="319147100"/>
+    <Message>reading and analyzing content of config file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599072410" nanoOfSecond="321424500"/>
+    <Message>google.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599072410" nanoOfSecond="325953200"/>
+    <Message>yahoo.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599072410" nanoOfSecond="327664500"/>
+    <Message>amazon.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599072410" nanoOfSecond="329660000"/>
+    <Message>apple.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+</Events>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599072443" nanoOfSecond="117417000"/>
+    <Message>application has  started</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599072443" nanoOfSecond="384714400"/>
+    <Message>Started loading resources from config resources file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599072443" nanoOfSecond="387706000"/>
+    <Message>loading resources from config resources file has finished</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599072443" nanoOfSecond="388692900"/>
+    <Message>reading and analyzing content of config file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599072443" nanoOfSecond="390685900"/>
+    <Message>google.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599072443" nanoOfSecond="393677200"/>
+    <Message>yahoo.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599072443" nanoOfSecond="395672400"/>
+    <Message>amazon.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599072443" nanoOfSecond="397667500"/>
+    <Message>apple.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+</Events>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599072477" nanoOfSecond="261706200"/>
+    <Message>application has  started</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599072477" nanoOfSecond="510041600"/>
+    <Message>Started loading resources from config resources file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599072477" nanoOfSecond="514051300"/>
+    <Message>loading resources from config resources file has finished</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599072477" nanoOfSecond="515027900"/>
+    <Message>reading and analyzing content of config file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599072477" nanoOfSecond="517022700"/>
+    <Message>google.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599072477" nanoOfSecond="522011000"/>
+    <Message>yahoo.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599072477" nanoOfSecond="524109800"/>
+    <Message>amazon.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599072477" nanoOfSecond="529987500"/>
+    <Message>apple.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+</Events>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599072625" nanoOfSecond="661012800"/>
+    <Message>application has  started</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599072625" nanoOfSecond="919321500"/>
+    <Message>Started loading resources from config resources file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599072625" nanoOfSecond="922314300"/>
+    <Message>loading resources from config resources file has finished</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599072625" nanoOfSecond="923311900"/>
+    <Message>reading and analyzing content of config file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599072625" nanoOfSecond="925364400"/>
+    <Message>google.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599072625" nanoOfSecond="930294500"/>
+    <Message>yahoo.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599072625" nanoOfSecond="933283800"/>
+    <Message>amazon.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599072625" nanoOfSecond="934280900"/>
+    <Message>apple.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+</Events>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599072680" nanoOfSecond="613087900"/>
+    <Message>application has  started</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599072680" nanoOfSecond="866310600"/>
+    <Message>Started loading resources from config resources file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599072680" nanoOfSecond="870347600"/>
+    <Message>loading resources from config resources file has finished</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599072680" nanoOfSecond="871297200"/>
+    <Message>reading and analyzing content of config file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599072680" nanoOfSecond="873291900"/>
+    <Message>google.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599072680" nanoOfSecond="880273200"/>
+    <Message>yahoo.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599072680" nanoOfSecond="882267600"/>
+    <Message>amazon.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599072680" nanoOfSecond="884262200"/>
+    <Message>apple.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599072680" nanoOfSecond="945098700"/>
+    <Message>Application finished</Message>
+  </Event>
+</Events>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599072713" nanoOfSecond="750566400"/>
+    <Message>application has  started</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599072714" nanoOfSecond="4885700"/>
+    <Message>Started loading resources from config resources file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599072714" nanoOfSecond="7877000"/>
+    <Message>loading resources from config resources file has finished</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599072714" nanoOfSecond="9871500"/>
+    <Message>reading and analyzing content of config file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599072714" nanoOfSecond="11866600"/>
+    <Message>google.txt exists</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599072714" nanoOfSecond="15424700"/>
+    <Message>new name googleepam.txt was generated from google.txt because of the suffix - EPAM</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599072714" nanoOfSecond="16852200"/>
+    <Message>google.txt renamed to googleepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599072714" nanoOfSecond="18847100"/>
+    <Message>yahoo.txt exists</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599072714" nanoOfSecond="30816700"/>
+    <Message>new name yahooepam.txt was generated from yahoo.txt because of the suffix - EPAM</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599072714" nanoOfSecond="33808800"/>
+    <Message>yahoo.txt renamed to yahooepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599072714" nanoOfSecond="35803200"/>
+    <Message>amazon.txt exists</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599072714" nanoOfSecond="38204700"/>
+    <Message>new name amazonepam.txt was generated from amazon.txt because of the suffix - EPAM</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599072714" nanoOfSecond="38794000"/>
+    <Message>amazon.txt renamed to amazonepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599072714" nanoOfSecond="40788300"/>
+    <Message>apple.txt exists</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599072714" nanoOfSecond="43302500"/>
+    <Message>new name appleepam.txt was generated from apple.txt because of the suffix - EPAM</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599072714" nanoOfSecond="44778800"/>
+    <Message>apple.txt renamed to appleepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599072714" nanoOfSecond="97638100"/>
+    <Message> google.txt yahoo.txt amazon.txt apple.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599072714" nanoOfSecond="99633200"/>
+    <Message> googleepam.txt yahooepam.txt amazonepam.txt appleepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599072714" nanoOfSecond="100629600"/>
+    <Message>Application finished</Message>
+  </Event>
+</Events>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599155390" nanoOfSecond="207567000"/>
+    <Message>application has  started</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599155390" nanoOfSecond="771057400"/>
+    <Message>Started loading resources from config resources file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599155390" nanoOfSecond="777307700"/>
+    <Message>loading resources from config resources file has finished</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599155390" nanoOfSecond="788014700"/>
+    <Message>reading and analyzing content of config file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599155390" nanoOfSecond="794993300"/>
+    <Message>google.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599155390" nanoOfSecond="823916500"/>
+    <Message>yahoo.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599155390" nanoOfSecond="826908300"/>
+    <Message>amazon.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599155390" nanoOfSecond="828903600"/>
+    <Message>apple.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599155390" nanoOfSecond="943595700"/>
+    <Message>Application finished</Message>
+  </Event>
+</Events>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599155425" nanoOfSecond="464807800"/>
+    <Message>application has  started</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599155425" nanoOfSecond="755738200"/>
+    <Message>Started loading resources from config resources file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599155425" nanoOfSecond="759805100"/>
+    <Message>loading resources from config resources file has finished</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599155425" nanoOfSecond="760754700"/>
+    <Message>reading and analyzing content of config file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599155425" nanoOfSecond="762755900"/>
+    <Message>google.txt exists</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599155425" nanoOfSecond="764818100"/>
+    <Message>new name googleepam.txt was generated from google.txt because of the suffix - EPAM</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599155425" nanoOfSecond="765742700"/>
+    <Message>google.txt renamed to googleepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599155425" nanoOfSecond="766740000"/>
+    <Message>yahoo.txt exists</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599155425" nanoOfSecond="799651900"/>
+    <Message>new name yahooepam.txt was generated from yahoo.txt because of the suffix - EPAM</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599155425" nanoOfSecond="802643300"/>
+    <Message>yahoo.txt renamed to yahooepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599155425" nanoOfSecond="804639900"/>
+    <Message>amazon.txt exists</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599155425" nanoOfSecond="808010300"/>
+    <Message>new name amazonepam.txt was generated from amazon.txt because of the suffix - EPAM</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599155425" nanoOfSecond="809626000"/>
+    <Message>amazon.txt renamed to amazonepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599155425" nanoOfSecond="810621200"/>
+    <Message>apple.txt exists</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599155425" nanoOfSecond="812620800"/>
+    <Message>new name appleepam.txt was generated from apple.txt because of the suffix - EPAM</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599155425" nanoOfSecond="814612700"/>
+    <Message>apple.txt renamed to appleepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599155425" nanoOfSecond="895396200"/>
+    <Message> google.txt yahoo.txt amazon.txt apple.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599155425" nanoOfSecond="896393800"/>
+    <Message> googleepam.txt yahooepam.txt amazonepam.txt appleepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599155425" nanoOfSecond="898387400"/>
+    <Message>Application finished</Message>
+  </Event>
+</Events>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599155680" nanoOfSecond="946153000"/>
+    <Message>application has  started</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599155681" nanoOfSecond="225405400"/>
+    <Message>Started loading resources from config resources file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599155681" nanoOfSecond="228399500"/>
+    <Message>loading resources from config resources file has finished</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599155681" nanoOfSecond="230393400"/>
+    <Message>reading and analyzing content of config file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599155681" nanoOfSecond="232387100"/>
+    <Message>google.txt exists</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599155681" nanoOfSecond="235377800"/>
+    <Message>new name googleepam.txt was generated from google.txt because of the suffix - EPAM</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599155681" nanoOfSecond="237374500"/>
+    <Message>google.txt renamed to googleepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599155681" nanoOfSecond="241363400"/>
+    <Message>yahoo.txt exists</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599155681" nanoOfSecond="258316600"/>
+    <Message>new name yahooepam.txt was generated from yahoo.txt because of the suffix - EPAM</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599155681" nanoOfSecond="263306500"/>
+    <Message>yahoo.txt renamed to yahooepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599155681" nanoOfSecond="267392800"/>
+    <Message>amazon.txt exists</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599155681" nanoOfSecond="270285800"/>
+    <Message>new name amazonepam.txt was generated from amazon.txt because of the suffix - EPAM</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599155681" nanoOfSecond="271849200"/>
+    <Message>amazon.txt renamed to amazonepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599155681" nanoOfSecond="273277800"/>
+    <Message>apple.txt exists</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599155681" nanoOfSecond="277266300"/>
+    <Message>new name appleepam.txt was generated from apple.txt because of the suffix - EPAM</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599155681" nanoOfSecond="279261900"/>
+    <Message>apple.txt renamed to appleepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599155681" nanoOfSecond="411906100"/>
+    <Message> google.txt yahoo.txt amazon.txt apple.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599155681" nanoOfSecond="412904400"/>
+    <Message> googleepam.txt yahooepam.txt amazonepam.txt appleepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599155681" nanoOfSecond="414898300"/>
+    <Message>Application finished</Message>
+  </Event>
+</Events>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599157491" nanoOfSecond="20687500"/>
+    <Message>application has  started</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599157491" nanoOfSecond="328862600"/>
+    <Message>Started loading resources from config resources file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599157491" nanoOfSecond="332850600"/>
+    <Message>loading resources from config resources file has finished</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599157491" nanoOfSecond="334846700"/>
+    <Message>reading and analyzing content of config file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599157491" nanoOfSecond="338835700"/>
+    <Message>google.txt exists</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599157491" nanoOfSecond="343192200"/>
+    <Message>new name googleepam.txt was generated from google.txt because of the suffix - EPAM</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599157491" nanoOfSecond="344819400"/>
+    <Message>google.txt renamed to googleepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599157491" nanoOfSecond="346815000"/>
+    <Message>yahoo.txt exists</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599157491" nanoOfSecond="368754500"/>
+    <Message>new name yahooepam.txt was generated from yahoo.txt because of the suffix - EPAM</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599157491" nanoOfSecond="370750500"/>
+    <Message>yahoo.txt renamed to yahooepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599157491" nanoOfSecond="371747700"/>
+    <Message>amazon.txt exists</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599157491" nanoOfSecond="374822900"/>
+    <Message>new name amazonepam.txt was generated from amazon.txt because of the suffix - EPAM</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599157491" nanoOfSecond="376733800"/>
+    <Message>amazon.txt renamed to amazonepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599157491" nanoOfSecond="377775900"/>
+    <Message>apple.txt exists</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599157491" nanoOfSecond="380722300"/>
+    <Message>new name appleepam.txt was generated from apple.txt because of the suffix - EPAM</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599157491" nanoOfSecond="382718300"/>
+    <Message>apple.txt renamed to appleepam.txt</Message>
+  </Event>
+</Events>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599157543" nanoOfSecond="2111600"/>
+    <Message>application has  started</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599157543" nanoOfSecond="232543700"/>
+    <Message>Started loading resources from config resources file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599157543" nanoOfSecond="235485600"/>
+    <Message>loading resources from config resources file has finished</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599157543" nanoOfSecond="236482900"/>
+    <Message>reading and analyzing content of config file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599157543" nanoOfSecond="238478600"/>
+    <Message>google.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599157543" nanoOfSecond="243515600"/>
+    <Message>yahoo.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599157543" nanoOfSecond="245458200"/>
+    <Message>amazon.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="ERROR" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599157543" nanoOfSecond="247455000"/>
+    <Message>apple.txt file didn't exist, file renaming process failed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599157543" nanoOfSecond="457891700"/>
+    <Message>Application finished</Message>
+  </Event>
+</Events>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599157570" nanoOfSecond="35869800"/>
+    <Message>application has  started</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599157570" nanoOfSecond="294178600"/>
+    <Message>Started loading resources from config resources file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599157570" nanoOfSecond="297177400"/>
+    <Message>loading resources from config resources file has finished</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599157570" nanoOfSecond="299167400"/>
+    <Message>reading and analyzing content of config file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599157570" nanoOfSecond="302156300"/>
+    <Message>google.txt exists</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599157570" nanoOfSecond="306154900"/>
+    <Message>new name googleepam.txt was generated from google.txt because of the suffix - EPAM</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599157570" nanoOfSecond="307143900"/>
+    <Message>google.txt renamed to googleepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599157570" nanoOfSecond="313128200"/>
+    <Message>yahoo.txt exists</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599157570" nanoOfSecond="343220700"/>
+    <Message>new name yahooepam.txt was generated from yahoo.txt because of the suffix - EPAM</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599157570" nanoOfSecond="348032900"/>
+    <Message>yahoo.txt renamed to yahooepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599157570" nanoOfSecond="353027500"/>
+    <Message>amazon.txt exists</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599157570" nanoOfSecond="357008100"/>
+    <Message>new name amazonepam.txt was generated from amazon.txt because of the suffix - EPAM</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599157570" nanoOfSecond="359158000"/>
+    <Message>amazon.txt renamed to amazonepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599157570" nanoOfSecond="360998400"/>
+    <Message>apple.txt exists</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599157570" nanoOfSecond="362993600"/>
+    <Message>new name appleepam.txt was generated from apple.txt because of the suffix - EPAM</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599157570" nanoOfSecond="365177500"/>
+    <Message>apple.txt renamed to appleepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599157570" nanoOfSecond="632273700"/>
+    <Message> google.txt yahoo.txt amazon.txt apple.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599157570" nanoOfSecond="633271600"/>
+    <Message> googleepam.txt yahooepam.txt amazonepam.txt appleepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599157570" nanoOfSecond="635266000"/>
+    <Message>Application finished</Message>
+  </Event>
+</Events>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599157664" nanoOfSecond="47751400"/>
+    <Message>application has  started</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599157664" nanoOfSecond="326005800"/>
+    <Message>Started loading resources from config resources file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599157664" nanoOfSecond="329053600"/>
+    <Message>loading resources from config resources file has finished</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599157664" nanoOfSecond="330994200"/>
+    <Message>reading and analyzing content of config file</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599157664" nanoOfSecond="333195600"/>
+    <Message>google.txt exists</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599157664" nanoOfSecond="335776000"/>
+    <Message>new name googleepam.txt was generated from google.txt because of the suffix - EPAM</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599157664" nanoOfSecond="337047300"/>
+    <Message>google.txt renamed to googleepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599157664" nanoOfSecond="338971800"/>
+    <Message>yahoo.txt exists</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599157664" nanoOfSecond="347947400"/>
+    <Message>new name yahooepam.txt was generated from yahoo.txt because of the suffix - EPAM</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599157664" nanoOfSecond="350940400"/>
+    <Message>yahoo.txt renamed to yahooepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599157664" nanoOfSecond="358918600"/>
+    <Message>amazon.txt exists</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599157664" nanoOfSecond="362052100"/>
+    <Message>new name amazonepam.txt was generated from amazon.txt because of the suffix - EPAM</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599157664" nanoOfSecond="366897000"/>
+    <Message>amazon.txt renamed to amazonepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599157664" nanoOfSecond="368891500"/>
+    <Message>apple.txt exists</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599157664" nanoOfSecond="372947200"/>
+    <Message>new name appleepam.txt was generated from apple.txt because of the suffix - EPAM</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599157664" nanoOfSecond="373877900"/>
+    <Message>apple.txt renamed to appleepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599157664" nanoOfSecond="637172800"/>
+    <Message> google.txt yahoo.txt amazon.txt apple.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599157664" nanoOfSecond="638171200"/>
+    <Message> googleepam.txt yahooepam.txt amazonepam.txt appleepam.txt</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" thread="main" level="INFO" loggerName="org.example.Main" endOfBatch="false" loggerFqcn="org.apache.logging.log4j.spi.AbstractLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1599157664" nanoOfSecond="640166000"/>
+    <Message>Application finished</Message>
+  </Event>
+</Events>

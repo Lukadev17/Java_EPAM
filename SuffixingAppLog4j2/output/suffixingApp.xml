@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SuffixingApp>
+  <file>
+    <oldName>google.txt</oldName>
+    <newName>googleepam.txt</newName>
+    <Datetime>2020-09-03T22:27:44.405794600</Datetime>
+    <ConfigFileName>suffix-config.properties</ConfigFileName>
+  </file>
+  <file>
+    <oldName>yahoo.txt</oldName>
+    <newName>yahooepam.txt</newName>
+    <Datetime>2020-09-03T22:27:44.405794600</Datetime>
+    <ConfigFileName>suffix-config.properties</ConfigFileName>
+  </file>
+  <file>
+    <oldName>amazon.txt</oldName>
+    <newName>amazonepam.txt</newName>
+    <Datetime>2020-09-03T22:27:44.405794600</Datetime>
+    <ConfigFileName>suffix-config.properties</ConfigFileName>
+  </file>
+  <file>
+    <oldName>apple.txt</oldName>
+    <newName>appleepam.txt</newName>
+    <Datetime>2020-09-03T22:27:44.405794600</Datetime>
+    <ConfigFileName>suffix-config.properties</ConfigFileName>
+  </file>
+</SuffixingApp>

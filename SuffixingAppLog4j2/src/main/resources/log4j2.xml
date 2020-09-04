@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+    <Appenders>
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+        </Console>
+            <File name="jsonlogs" filename="myJSON.json">
+                <JsonLayout compact="true" eventEol="true"  >
+                    <KeyValuePair key="timestamp" value="$${date:yyyy-MM-dd'T'HH:mm:ss.SSSXXX}" />
+                </JsonLayout>
+
+            </File>
+        <File name="XMLlogs" fileName="myXML.log">
+            <XmlLayout complete="true" />
+        </File>
+
+    </Appenders>
+    <Loggers>
+        <Logger name="org.example" level="trace" additivity="false">
+            <AppenderRef ref="Console" level="error" />
+            <AppenderRef ref="jsonlogs" />
+            <AppenderRef ref="XMLlogs" />
+        </Logger>
+        <Root level="error" additivity="false">
+            <AppenderRef ref="Console" />
+        </Root>
+    </Loggers>
+</Configuration>
